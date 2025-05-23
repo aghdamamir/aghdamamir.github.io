@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be graduting from Temple with a Master's degree in Computer Science this summer.
+A simple inline announcement.
